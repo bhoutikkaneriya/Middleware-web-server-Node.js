@@ -1,7 +1,11 @@
 const express = require('express');
+
+const port  = process.env.PORT || 3000
 const app = express()
 const hbs = require('hbs')
 const fs = require('fs');
+
+
 
 // app.use((req,res,next) => {
 //     res.send('<h1>Site under Maintainence</h1>')
@@ -61,6 +65,6 @@ app.get('/bad', (req,res) => {
 })
 
 
-app.listen(3000,() => {
+app.listen(port,() => {
     console.log('Server is running')
 })
