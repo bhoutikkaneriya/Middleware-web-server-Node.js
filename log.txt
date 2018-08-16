@@ -1,8 +1,3 @@
-Time is Sat Jul 28 2018 13:29:16 GMT-0700 (Pacific Daylight Time): GET : /
-Time is Sat Jul 28 2018 13:29:59 GMT-0700 (Pacific Daylight Time): GET : /
-Time is Sat Jul 28 2018 13:30:12 GMT-0700 (Pacific Daylight Time): GET : /about
-Time is Sat Jul 28 2018 13:30:17 GMT-0700 (Pacific Daylight Time): GET : /
-Time is Sat Jul 28 2018 13:30:22 GMT-0700 (Pacific Daylight Time): GET : /about
-Time is Sat Jul 28 2018 13:30:24 GMT-0700 (Pacific Daylight Time): GET : /
-Time is Sat Jul 28 2018 13:43:24 GMT-0700 (Pacific Daylight Time): GET : /
-Time is Sat Jul 28 2018 13:43:28 GMT-0700 (Pacific Daylight Time): GET : /about
+Time is Wed Aug 15 2018 21:27:10 GMT-0700 (Pacific Daylight Time): GET : /
+Time is Wed Aug 15 2018 21:27:14 GMT-0700 (Pacific Daylight Time): GET : /about
+Time is Wed Aug 15 2018 21:27:16 GMT-0700 (Pacific Daylight Time): GET : /
